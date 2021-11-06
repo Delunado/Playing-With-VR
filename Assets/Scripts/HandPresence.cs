@@ -30,7 +30,7 @@ public class HandPresence : MonoBehaviour
         {
             UpdateHandAnimation();
 
-            if (targetDevice.TryGetFeatureValue(CommonUsages.primaryButton, out bool value) && value)
+            if (targetDevice.TryGetFeatureValue(CommonUsages.menuButton, out bool value) && value)
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
