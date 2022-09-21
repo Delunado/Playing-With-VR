@@ -5,4 +5,5 @@ VR Demo made with Unity, including basic features like **Teleporting, Free Movem
 
 Check the Demo Video here! ⬇️
 
-[![VR Video](https://img.youtube.com/vi/77pR43utvhs/0.jpg)](https://www.youtube.com/watch?v=77pR43utvhs)
+
+Uploading Playing With VR - Compressed with FlexClip.mp4…
